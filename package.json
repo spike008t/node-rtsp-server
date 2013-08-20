@@ -1,0 +1,26 @@
+{
+  "name": "node-rtsp-server",
+  "version": "0.0.1",
+  "author": "Tieu-Philippe KHIM <khim.tieu.philippe@gmail.com>",
+  "description": "a simple rtsp server on node js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/spike008t/node-rtsp-server.git"
+  },
+  "keywords": [
+    "rtsp",
+    "rtp",
+    "server",
+    "streaming"
+  ],
+  "dependencies": {
+    "colors": "*"
+  },
+  "devDependencies": {
+    "request": "2.1.x",
+    "grunt": "~0.4.1"
+  },
+  "engines": {
+    "node": ">=0.10"
+  }
+}
